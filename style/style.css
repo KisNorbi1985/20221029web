@@ -19,7 +19,7 @@ html{
 }
 #content .news{
     padding: 10px;
-    max-width: 49.99999%;
+    max-width: 49.999999%;
     float:left;
     text-align: justify;
     line-height: 1.5;
@@ -34,7 +34,7 @@ html{
     list-style-type: none;
   }
   #nav ul li{
-    width: 19.9999%;
+    width: 19.999999%;
     float: left;
     text-align: center;
     border-right:1px dotted black;
